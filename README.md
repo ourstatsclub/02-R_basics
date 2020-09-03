@@ -1,2 +1,8 @@
-# 02-R_basics
-Learn R basics with us
+# R Basics
+some basic guidelines on statistical concepts using R
+
+* R Tips
+
+* Methods in R
+
+* Extracting elements from R object
