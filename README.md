@@ -5,4 +5,4 @@ some basic guidelines on statistical concepts using R
 
 * Methods in R
 
-* Extracting elements from R object
+* Extracting lm elements from R object
